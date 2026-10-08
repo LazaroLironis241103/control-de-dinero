@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAdC4zjzPKu0d8LZLCDkOe8hxgtuceVDYI",
-  authDomain: "control-dinero-69857.firebaseapp.com",
+  authDomain: "control-dinero-69857.web.app",
   projectId: "control-dinero-69857",
   storageBucket: "control-dinero-69857.firebasestorage.app",
   messagingSenderId: "419210162700",
