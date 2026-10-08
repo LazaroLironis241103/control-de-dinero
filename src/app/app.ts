@@ -277,6 +277,7 @@ export class AppComponent implements OnInit, AfterViewInit, OnDestroy {
         cutout: '70%'
       }
     });
+    this.graficoCanvas.nativeElement.style.removeProperty('display');
   }
 
   escucharDatos(uid: string) {
